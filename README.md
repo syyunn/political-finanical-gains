@@ -5,6 +5,8 @@ Literatures regarding how political informations - congressional, lobbying etc c
 http://efa2011.efa-online.org/fisher.osu.edu/blogs/efa2011/files/APE_9_1.pdf
 -> information can be disseminated among agents and incorporated into security prices through trading by agents who are connected to the source of the information
 ->  Yet little is known concerning the dissemination of private political information
+->  In this paper, we test the hypothesis that hedge fund managers obtain and trade on private political information
+through their connections with lobbyists
 
 Coval, Joshua, and Tobias Moskowitz, 2001, The geography of investment: Informed trading and asset prices, Journal of Political Economy 109, 811ñ41
 
